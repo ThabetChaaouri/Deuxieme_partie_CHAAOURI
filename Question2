@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Referencement</title>
+</head>
+<body>
+
+<h1>Image et source</h1>
+<img src="https://user.oc-static.com/files/343001_344000/343672.png" alt="pageweb" border=3 align=left/>
+<a href="https://www.e-monsite.com/pages/tutoriels/referencement/">pageweb</a>
+<p>ici j'ai ajouté un cadre à l'image</p>
+
+</body>
+</html>
